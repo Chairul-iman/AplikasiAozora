@@ -11,7 +11,7 @@ body {
 #game-container {
     position: relative;
     width: 60vw;
-    height: 60vh;
+    height: 40vh;
     border: 2px solid #fff;
     overflow: hidden;
     background-color: #333;
